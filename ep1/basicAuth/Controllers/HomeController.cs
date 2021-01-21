@@ -11,7 +11,7 @@ namespace ep1.basicAuth.Controllers
         }
 
         [Authorize]
-        public IActionResult Secrete()
+        public IActionResult Secret()
         {
             return View();
         }

@@ -14390,6 +14390,17 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "basicAuth",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/media/leon/Back-up/Codes/dotnetCore/identityServer-4fun/APS_NETCORE3_YTB/ep1/basicAuth/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/media/leon/Back-up/Codes/dotnetCore/identityServer-4fun/APS_NETCORE3_YTB/ep1/basicAuth/Views/Home/Secret.cshtml",
+      "TargetPath": "Views\\Home\\Secret.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
