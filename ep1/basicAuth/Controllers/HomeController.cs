@@ -16,7 +16,7 @@ namespace ep1.basicAuth.Controllers
             return View();
         }
 
-        public IActionResult Authenciated()
+        public IActionResult Authenticated()
         {
             return RedirectToAction("Index");
         }
